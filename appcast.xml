@@ -2,6 +2,14 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>Course Player 0.9.0</title>
+      <pubDate>Thu, 12 Nov 2026 18:32:40 +0000</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/sooreen/course-player-releases/releases/download/v0.9.0/Course-Player-0.9.0.zip" length="5845250" type="application/octet-stream" sparkle:edSignature="ZWa0JUH5dDwYfr7rf532dFuXzSJCz6wAuEIDwBwxZAdAU5c6IqRbfdeF3VForg99iSWjWI+uGDQuGjSe2MR9DQ==" />
+    </item>
+    <item>
       <title>Course Player 0.8.1</title>
       <pubDate>Thu, 12 Nov 2026 18:15:26 +0000</pubDate>
       <sparkle:version>16</sparkle:version>

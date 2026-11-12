@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Course Player updates</title>
+    <link>https://github.com/sooreen/course-player-releases</link>
+    <description>Обновления Course Player для macOS</description>
+    <language>ru</language>
+  </channel>
+</rss>
